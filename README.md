@@ -120,7 +120,7 @@ Use Boto3 or AWS SDK for automation
 
 📸 Architecture Diagram
 
-![Architecture Diagram](project-diagram.png)
+![Architecture Diagram](project-diagram.jpg)
 
 👨‍💻 Author
 
