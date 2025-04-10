@@ -108,16 +108,6 @@ Subnet groups and secure RDS architecture
 
 IAM, security groups, and bastion SSH
 
-📈 Future Improvements
-
-Infrastructure as Code using Terraform
-
-Add CloudWatch Monitoring & Alerts
-
-Integrate a Flask/Django app that connects to RDS
-
-Use Boto3 or AWS SDK for automation
-
 📸 Architecture Diagram
 
 ![Architecture Diagram](project-diagram.jpg)
