@@ -14,6 +14,10 @@ A second private subnet hosting a MySQL RDS instance
 
 Secure communication and routing via NAT Gateway and Internet Gateway
 
+📸 Architecture Diagram
+
+![Architecture Diagram](project-diagram.jpg)
+
 🧱 VPC Configuration
 
 VPC: 618998-vpc-1 | CIDR: 10.10.20.0/24
@@ -107,10 +111,6 @@ Routing logic with NAT vs IGW
 Subnet groups and secure RDS architecture
 
 IAM, security groups, and bastion SSH
-
-📸 Architecture Diagram
-
-![Architecture Diagram](project-diagram.jpg)
 
 👨‍💻 Author
 
